@@ -1,0 +1,15 @@
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\bin\Debug\net7.0\Floid.exe
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\bin\Debug\net7.0\Floid.deps.json
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\bin\Debug\net7.0\Floid.runtimeconfig.json
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\bin\Debug\net7.0\Floid.dll
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\bin\Debug\net7.0\Floid.pdb
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\obj\Debug\net7.0\Floid.csproj.AssemblyReference.cache
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\obj\Debug\net7.0\Floid.GeneratedMSBuildEditorConfig.editorconfig
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\obj\Debug\net7.0\Floid.AssemblyInfoInputs.cache
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\obj\Debug\net7.0\Floid.AssemblyInfo.cs
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\obj\Debug\net7.0\Floid.csproj.CoreCompileInputs.cache
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\obj\Debug\net7.0\Floid.dll
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\obj\Debug\net7.0\refint\Floid.dll
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\obj\Debug\net7.0\Floid.pdb
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\obj\Debug\net7.0\Floid.genruntimeconfig.cache
+E:\ВУЗ\Зимняя сессия 2022\АИСД\Floid\Floid\obj\Debug\net7.0\ref\Floid.dll
